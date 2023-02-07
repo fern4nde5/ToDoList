@@ -8,8 +8,9 @@
 <p style="text-align:center">Durante o desenvolvimento da atividade pratica do curso de <strong>Angular 2+ | TypeScript</strong>, pude realizar essa tarefa: uma lista de afazeres. C&oacute;digo feito no <strong>VSCode</strong>, utilizando o <strong>Angular</strong>. Essa foi a minha primeira pr&aacute;tica, aplicando conhecimentos adquiridos no in&iacute;cio do curso, de <em>componentes, ngOnInit, ngOnChanges, ngDoCheck, ngOnDestroy, Data Binding, diretivas ngIf, ngFor, ngSwitch, ngClass, ngStyle, ngModel, ng-template, ng-content e pipes</em>. Al&eacute;m disso, fui introduzido a cria&ccedil;&atilde;o de <em>m&oacute;dulos</em> e <em>submodulos&nbsp;</em>e a comunica&ccedil;&atilde;o entre componentes com <em>Input </em>e <em>Output</em>.</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/120461225/217246723-001dbb1c-1243-4944-9a1b-397842d86ce4.png" alt="To-Do-List" height="327" width="491"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/120461225/217246741-cf52700e-dc6b-42f7-a344-dabfee9e6bcb.png" alt="To-Do-List" height="327" width="491"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/120461225/217246755-7bbb533f-bc5c-4a48-92b5-9ae507cc03ef.png" alt="To-Do-List" height="327" width="491"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/120461225/217246741-cf52700e-dc6b-42f7-a344-dabfee9e6bcb.png" alt="To-Do-List" height="327" width="491"></p>
+
 
 
 <h2 align="center">Funcionalidades</h2>
